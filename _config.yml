@@ -1,0 +1,43 @@
+# Site settings
+title: Robson Arruda
+description: 'Sou desenvolvedor Júnior, amo trabalhar com desenvolvimento de software tenho facilidade e muita vontade de aprender novas tecnologias e estudar mais a fundo as que conheço, experiências em desenvolvimento de software principalmente web, criação e manutenção de API, desenvolvimento de novos produtos ou melhorias dos existentes, trabalhava utilizando metodologia ágil, sou certificado em SCRUM fundamentals.'
+url: 'https://arrudarobson.github.io'
+#baseurl: ''
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'Robson Arruda'
+  email: robson.arruda@outlook.com
+  #twitter_username: joshgerdes
+  #facebook_username: joshgerdes
+  github_username:  arrudarobson
+  linkedin_username:  robson-arruda-687360131
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+plugins: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
