@@ -1,10 +1,46 @@
 ---
-title:  "Welcome to Jekyll!"
-date:   2016-01-08 15:04:23
-categories: [jekyll]
-tags: [jekyll]
+title:  "Currículo"
+date:   2018-11-04 
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
+### Brasileiro, solteiro, 25 anos 
+### E-mail: robson.arruda@outlook.com 
+
+## FORMAÇÃO 
+
+Tecnólogo em Análise e Desenvolvimento de Sistemas, Universidade Nove de Julho, cursando.
+ 
+## EXPERIÊNCIA PROFISSIONAL 
+ 
+>Uber 
+>2016-2017- Motorista particular 
+>Principais atividades: Atuava como motorista particular utilizando aplicativo no smartphone. 
+
+>Alest 
+>2017-2018 - Estagiário Suporte técnico
+>Principais atividades: Prestava suporte do G-suíte para clientes através de e-mail, telefone, acesso >remoto e presencial.
+
+>Catho Online
+>2018-2019 - Estagiário de desenvolvimento de software
+>Principais atividades: Atuar no desenvolvimento de produtos e melhorias no contexto "busca de vagas", >trabalhava de forma ágil seguindo o framework scrum, utilizando para desenvolvimento as tecnologias PHP, >Ruby, CSS, Twig, JavaScript com alguns frameworks como Zend, Phalcon, Sinatra, Rails, em alguns cenários >utilizava Docker, para deploy Jenkins, comunicação slack e para acompanhamento de métricas do time e das >histórias utilizava o Jira.    
+ 
+## QUALIFICAÇÕES E ATIVIDADES COMPLEMENTARES 
+ 
+>Inglês – Intermediário.   
+>Word – Básico. Fundação Bradesco 2017 
+>Excel – Básico. Fundação Bradesco 2016 
+>Java orientado a objetos. Alura 2018 
+>Lógica de Programação. Caelum 2018 
+>Git Hub. Alura 2018 
+>Java básico. Alura 2018
+>Scrum Fundamentals Certified - 618574 
+ 
+## INFORMAÇÕES ADICIONAIS 
+ 
+Possuo disponibilidade para mudança de cidade ou estado. 
+Cursando Inglês por meio de EAD (Channel 9), curso fornecido pela instituição na qual estou matriculado.  
+Conhecimentos básicos em de programação nas linguagens C, PHP, Ruby, Java, Python, JavaScript, Android(visual studio).
+Possuo também conhecimento em programação orientada a objetos e também com front-end, CSS e LESS, realização de teste exploratórios, manutenção de computadores, montagem, desmontagem, troca de peças, formatação e instalação de softwares.
+
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
