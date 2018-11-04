@@ -2,7 +2,7 @@
 title: Robson Arruda
 description: 'Sou desenvolvedor Júnior, amo trabalhar com desenvolvimento de software tenho facilidade e muita vontade de aprender novas tecnologias e estudar mais a fundo as que conheço, experiências em desenvolvimento de software principalmente web, criação e manutenção de API, desenvolvimento de novos produtos ou melhorias dos existentes, trabalhava utilizando metodologia ágil, sou certificado em SCRUM fundamentals.'
 url: 'https://arrudarobson.github.io'
-#baseurl: ''
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
