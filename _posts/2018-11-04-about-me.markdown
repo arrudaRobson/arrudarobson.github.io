@@ -4,38 +4,42 @@ date:   2018-11-04
 ---
 
 > Brazilian, single, 25 years old
+
 > E-mail: robson.arruda@outlook.com
 
-## FORMATION
+## Formation
 
 Technologist in Systems Analysis and Development, Universidade Nove de Julho, attending.
 
-## PROFESSIONAL EXPERIENCE
+## Professional Experience
 
 > Uber
+
 2016-2017 - Driver's Particular
 Main activities: It was a private challenge, there is no smartphone.
 
 > Alest
+
 2017-2018 - Intern Technical Support
 Main activities: G-suite support via e-mail, telephone, remote access and presence.
 
 > Catho Online
+
 2018-2019 - Software Development Intern
-> Ruby, CSS, Twig, JavaScript with some frameworks such as Zend, Phalcon, Sinatra, Rails, in some scenarios> used Docker to deploy Jenkins, the slack communication, and the tracking of weather metrics and stories used on the Jira.
+Ruby, CSS, Twig, JavaScript with some frameworks such as Zend, Phalcon, Sinatra, Rails, in some scenarios used Docker to deploy Jenkins, the slack communication, the tracking of weather metrics and stories used on the Jira.
 
-## QUALIFICATIONS AND COMPLEMENTARY ACTIVITIES
+## Qualifications and Complementary Activities
 
-.Intermediary English.
-Word - Basic. Fundação Bradesco 2017
-.Excel - Basic. Fundação Bradesco 2016
-.Java object oriented. Alura 2018
-.Programming logic. Caelum 2018
-Hub .Git. Alura 2018
-.Java basic. Alura 2018
-.Scrum Certified Fundamentals - 618574
+* Intermediary English.
+* Word - Basic. Fundação Bradesco 2017
+* Excel - Basic. Fundação Bradesco 2016
+* Java object oriented. Alura 2018
+* Programming logic. Caelum 2018
+* Hub .Git. Alura 2018
+* Java basic. Alura 2018
+* Scrum Certified Fundamentals - 618574
 
-## ADDITIONAL INFORMATION
+## Additional Information
 
 I have disposition to the city of city or state.
 Studying English through EAD (Channel 9), course instituted by the institution in which it is enrolled.
